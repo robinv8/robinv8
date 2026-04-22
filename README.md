@@ -10,7 +10,6 @@ Frontend developer focused on React Native, React, and Vue. Contributor to Apach
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [answer](https://github.com/apache/answer) | Go / TypeScript | Q&A platform software for teams |
 | [mino-skills](https://github.com/robinv8/mino-skills) | Go Template | Skills management service |
 | [SnapForm](https://github.com/robinv8/SnapForm) | TypeScript | AI-powered smart form filler for developers |
 | [KnowledgeSpeedNote](https://github.com/robinv8/KnowledgeSpeedNote) | Swift | Quick note-taking app |
